@@ -1,6 +1,5 @@
 import os
 import random
-import PyQt5
 chars = "+-/*!&$#?=@<>abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
 
 number = int( input(" Enter number of passwords > ") )
